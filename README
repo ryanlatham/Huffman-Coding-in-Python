@@ -1,0 +1,6 @@
+A simple program that uses a Huffman coding algorithm to encode/decode a string.
+
+Currently doesn't support spaces in the string.
+
+Run the "HuffmanApp.py" module to test out the app. I use tkinter package for this app, therefore it will not work
+unless you have it installed.
